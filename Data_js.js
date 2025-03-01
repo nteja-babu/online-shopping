@@ -33,7 +33,7 @@ const card_content = [
         PATH: 'https://amzn.to/3DeVRVK'
     },
     {
-        IMG: "https://raw.githubusercontent.com/nteja-babu/smart_data/refs/heads/main/my_pics/hq720.jpg",
+        IMG: "https://m.media-amazon.com/images/I/71U3iznUAIL._SX425_.jpg",
         HEADING: "Heading",
         MATTER: "Some representative placeholder content for the three columns of text below the carousel. This is the first column.",
         PATH: 'https://amzn.to/41p0swm'
