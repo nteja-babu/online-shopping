@@ -56,9 +56,9 @@ function Showcards() {
 
 document.addEventListener('DOMContentLoaded', () => {
     // Check the page's URL or a specific element to determine which function to run
-    if (window.location.pathname === '/Devotional.html') { // Replace '/page1.html' with the correct URL path
+    if (window.location.pathname === '/online-shopping/Devotional.html') { // Replace '/page1.html' with the correct URL path
         displayRecords();
-    } else if (window.location.pathname === '/') { // Replace '/page2.html' with the correct URL path
+    } else if (window.location.pathname === '/online-shopping/') { // Replace '/page2.html' with the correct URL path
         Showcards();
     }
 });
