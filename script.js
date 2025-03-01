@@ -1,38 +1,13 @@
-// Array of records
-const records = [
-    {
-        title: "Title of the first blog post",
-        lead: "First post content goes here. Inform readers about what this post is about."
-    },
-    {
-        title: "Title of the second blog post",
-        lead: "Second post content goes here. More information for readers about this post."
-    },
-    {
-        title: "Title of the third blog post",
-        lead: "Third post content goes here. A brief summary of this post for readers."
-    },
-    {
-        title: "Title of the fourth blog post",
-        lead: "Fourth post content goes here. An overview of the fourth post."
-    },
-    {
-        title: "Title of the fifth blog post",
-        lead: "Fifth post content goes here. A description or summary of the fifth blog post."
-    },
-    {
-        title: "Hi tejat",
-        lead: "Fifth sample content goes here. A description or summary of the fifth blog post."
-    }
-];
+// Import records and card_content from Data_js.js
+import { records, card_content } from './Data_js.js';
 
-// Function to display the records
+// Function to display the records (blog posts)
 function displayRecords() {
     const contentDiv = document.getElementById('content'); // Get the content div
 
     // Loop through the records and create HTML for each
     records.forEach(record => {
-        // Create the HTML structure
+        // Create the HTML structure for each record (blog post)
         const postDiv = document.createElement('div');
         postDiv.classList.add('p-4', 'p-md-5', 'mb-4', 'rounded', 'text-body-emphasis', 'bg-body-secondary');
 
@@ -48,5 +23,41 @@ function displayRecords() {
     });
 }
 
-// Call the function to display records when the page loads
-displayRecords();
+// Function to display the cards
+function Showcards() {
+    const contentDiv = document.getElementById('carcontents'); // Get the content div
+    
+    // Check if contentDiv is found (this prevents errors if the ID doesn't exist)
+    if (!contentDiv) {
+        console.error('Error: No element with id "card_content" found.');
+        return;
+    }
+
+    // Loop through the card_content array and create HTML for each card
+    card_content.forEach(record => {
+        // Create the HTML structure for each card
+        const postDiv = document.createElement('div');
+        postDiv.classList.add('col-lg-4'); // Ensures 3 cards per row
+
+        postDiv.innerHTML = `
+            <div>
+                <img class="bd-placeholder-img rounded-circle" src="${record.IMG}" alt="Image" style="width: 250px; height: 250px; object-fit: cover; object-position: center;">
+                <h2 class="fw-normal">${record.HEADING}</h2>
+                <p>${record.MATTER}</p>
+                <p><a href="${record.PATH}" class="btn btn-outline-primary rounded-pill">Click Here</a></p>
+            </div>
+        `;
+
+        // Append the created card to the content div
+        contentDiv.appendChild(postDiv);
+    });
+}
+
+document.addEventListener('DOMContentLoaded', () => {
+    // Check the page's URL or a specific element to determine which function to run
+    if (window.location.pathname === '/Devotional.html') { // Replace '/page1.html' with the correct URL path
+        displayRecords();
+    } else if (window.location.pathname === '/') { // Replace '/page2.html' with the correct URL path
+        Showcards();
+    }
+});
