@@ -44,6 +44,12 @@ const card_content = [
         MATTER: "Some representative placeholder content for the three columns of text below the carousel. This is the first column.",
         PATH: 'https://amzn.to/41p0swm'
     },
+    {
+        IMG: "https://m.media-amazon.com/images/I/71U3iznUAIL._SX425_.jpg",
+        HEADING: "Heading",
+        MATTER: "Some representative placeholder content for the three columns of text below the carousel. This is the first column.",
+        PATH: 'https://amzn.to/41p0swm'
+    },
     
 ];
 
