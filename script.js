@@ -2,6 +2,7 @@
 import { records, card_content } from './Data_js.js';
 
 // Function to display the records (blog posts)
+console.log(card_content)
 function displayRecords() {
     const contentDiv = document.getElementById('content'); // Get the content div
 
