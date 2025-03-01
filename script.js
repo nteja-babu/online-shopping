@@ -10,16 +10,18 @@ function displayRecords() {
     records.forEach(record => {
         // Create the HTML structure for each record (blog post)
         const postDiv = document.createElement('div');
-        postDiv.classList.add('p-4', 'p-md-5', 'mb-4', 'rounded', 'text-body-emphasis', 'bg-body-secondary');
+        postDiv.classList.add('col-lg-4'); // Ensures 3 cards per row
 
         postDiv.innerHTML = `
-            <div class="col-lg-6 px-0">
-                <h1 class="display-4 fst-italic text-center">${record.title}</h1>
-                <p class="lead my-3">${record.lead}</p>
+            <div>
+                <img class="bd-placeholder-img rounded-circle" src="${record.IMG}" alt="Image" style="width: 250px; height: 250px; object-fit: cover; object-position: center;">
+                <h2 class="fw-normal">${record.HEADING}</h2>
+                <p>${record.MATTER}</p>
+                <p><a href="${record.PATH}" class="btn btn-outline-primary rounded-pill">Click Here</a></p>
             </div>
         `;
 
-        // Append the created div to the content div
+        // Append the created card to the content div
         contentDiv.appendChild(postDiv);
     });
 }
