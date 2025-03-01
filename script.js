@@ -5,7 +5,6 @@ import { records, card_content } from './Data_js.js';
 console.log(card_content)
 function displayRecords() {
     const contentDiv = document.getElementById('content'); // Get the content div
-
     // Loop through the records and create HTML for each
     records.forEach(record => {
         // Create the HTML structure for each record (blog post)
