@@ -1,5 +1,5 @@
 // Import records and card_content from Data_js.js
-import { records, card_content } from './Data_js.js';
+import { records, card_content } from './online-shopping/Data_js.js';
 
 // Function to display the records (blog posts)
 function displayRecords() {
