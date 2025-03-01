@@ -11,7 +11,6 @@ function displayRecords() {
         // Create the HTML structure for each record (blog post)
         const postDiv = document.createElement('div');
         postDiv.classList.add('col-lg-4'); // Ensures 3 cards per row
-
         postDiv.innerHTML = `
             <div>
                 <img class="bd-placeholder-img rounded-circle" src="${record.IMG}" alt="Image" style="width: 250px; height: 250px; object-fit: cover; object-position: center;">
@@ -29,7 +28,7 @@ function displayRecords() {
 // Function to display the cards
 function Showcards() {
     const contentDiv = document.getElementById('carcontents'); // Get the content div
-    
+
     // Check if contentDiv is found (this prevents errors if the ID doesn't exist)
     if (!contentDiv) {
         console.error('Error: No element with id "card_content" found.');
