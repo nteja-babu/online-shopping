@@ -26,12 +26,14 @@ const ele_content = [
 /* used for Gadget.HTML page */
 
 const gad_content = [
-    {
-        IMG: "https://m.media-amazon.com/images/I/71U3iznUAIL._SX425_.jpg",
-        HEADING: "Gadget",
-        MATTER: "Some representative placeholder content for the three columns of text below the carousel. This is the first column.",
-        PATH: 'https://amzn.to/41p0swm'
+    
+{
+        IMG: "https://www.amazon.in/gp/aw/d/B0CYTCD6TH/?_encoding=UTF8&pd_rd_plhdr=t&aaxitk=8a3fd4656871378dad11bf572cc654a5&hsa_cr_id=0&qid=1740897272&sr=1-1-b76ccce4-e4ce-4a30-8e0c-9a83ecdf2cc0&ref_=sbx_be_s_sparkle_lsi2m_asin_0_img&pd_rd_w=mGXh9&content-id=amzn1.sym.1c3f6377-e9e7-4231-b06d-247ff644a657%3Aamzn1.sym.1c3f6377-e9e7-4231-b06d-247ff644a657&pf_rd_p=1c3f6377-e9e7-4231-b06d-247ff644a657&pf_rd_r=N38SV1AB1GYE351ZD22N&pd_rd_wg=bJe50&pd_rd_r=f0993126-912d-4cde-be54-6aa0bb4221d2#",
+        HEADING: "Devotional",
+        MATTER: ". One94Store 3D Galaxy Crystal Ball Night Lamp - Engraved USB Table LED Wooden Light for Home Office Decoration and Birthday Gift (Galaxy)(Warm White)",
+        PATH: 'https://amzn.to/3F2VYnR '
     },
+
 ];
 
 /*-------------------------------------------------------------------------------*/
