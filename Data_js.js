@@ -52,8 +52,8 @@ const clo_content = [
 const card_content = [
     {
         IMG: " https://m.media-amazon.com/images/I/41ToUyhcYpL._SX300_SY300_QL70_FMwebp_.jpg",
-        HEADING: "index",
-        MATTER: "Some representative placeholder content for the three columns of text below the carousel. This is the first column.",
+        HEADING: "Supply 6",
+        MATTER: "SUPPLY6 Stress Free Gummies with world's strongest KSM-66 Ashwagandha | Sleep Quality, Stress Relief, Boost Performance | Mixed Berry, Plant Based, Gluten-Free & Gelatin Free, 60 Gummies",
         PATH: 'https://amzn.to/3QDCt7V'
     },
     {
