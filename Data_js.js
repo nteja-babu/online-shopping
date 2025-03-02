@@ -5,7 +5,7 @@
 const records = [
     {
         IMG: "https://m.media-amazon.com/images/I/71U3iznUAIL._SX425_.jpg",
-        HEADING: "Heading",
+        HEADING: "Devotional",
         MATTER: "Some representative placeholder content for the three columns of text below the carousel. This is the first column.",
         PATH: 'https://amzn.to/41p0swm'
     },
@@ -16,7 +16,7 @@ const records = [
 const ele_content = [
     {
         IMG: "https://m.media-amazon.com/images/I/71U3iznUAIL._SX425_.jpg",
-        HEADING: "Heading",
+        HEADING: "Electronics",
         MATTER: "Some representative placeholder content for the three columns of text below the carousel. This is the first column.",
         PATH: 'https://amzn.to/41p0swm'
     },
@@ -28,7 +28,7 @@ const ele_content = [
 const gad_content = [
     {
         IMG: "https://m.media-amazon.com/images/I/71U3iznUAIL._SX425_.jpg",
-        HEADING: "Heading",
+        HEADING: "Gadget",
         MATTER: "Some representative placeholder content for the three columns of text below the carousel. This is the first column.",
         PATH: 'https://amzn.to/41p0swm'
     },
@@ -40,7 +40,7 @@ const gad_content = [
 const clo_content = [
     {
         IMG: "https://m.media-amazon.com/images/I/71U3iznUAIL._SX425_.jpg",
-        HEADING: "Heading",
+        HEADING: "Clothing",
         MATTER: "Some representative placeholder content for the three columns of text below the carousel. This is the first column.",
         PATH: 'https://amzn.to/41p0swm'
     },
@@ -52,7 +52,7 @@ const clo_content = [
 const card_content = [
     {
         IMG: " https://m.media-amazon.com/images/I/41nbWPrsdDL._SX300_SY300_QL70_FMwebp_.jpg",
-        HEADING: "Heading",
+        HEADING: "index",
         MATTER: "Some representative placeholder content for the three columns of text below the carousel. This is the first column.",
         PATH: 'https://amzn.to/3DeVRVK'
     },
