@@ -51,10 +51,10 @@ const clo_content = [
 
 const card_content = [
     {
-        IMG: " https://m.media-amazon.com/images/I/41nbWPrsdDL._SX300_SY300_QL70_FMwebp_.jpg",
+        IMG: " https://m.media-amazon.com/images/I/41ToUyhcYpL._SX300_SY300_QL70_FMwebp_.jpg",
         HEADING: "index",
         MATTER: "Some representative placeholder content for the three columns of text below the carousel. This is the first column.",
-        PATH: 'https://amzn.to/3DeVRVK'
+        PATH: 'https://amzn.to/3QDCt7V'
     },
     {
         IMG: "https://m.media-amazon.com/images/I/71U3iznUAIL._SX425_.jpg",
