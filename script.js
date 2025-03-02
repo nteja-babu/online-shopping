@@ -6,7 +6,7 @@ console.log(card_content)
 function displayRecords() {
     const contentDiv = document.getElementById('content'); // Get the content div
     // Loop through the records and create HTML for each
-    ele_content.forEach(record => {
+    records.forEach(record => {
         // Create the HTML structure for each record (blog post)
         const postDiv = document.createElement('div');
         postDiv.classList.add('col-lg-4'); // Ensures 3 cards per row
@@ -64,7 +64,7 @@ function eleShowcards() {
     }
 
     // Loop through the card_content array and create HTML for each card
-    card_content.forEach(record => {
+    ele_content.forEach(record => {
         // Create the HTML structure for each card
         const postDiv = document.createElement('div');
         postDiv.classList.add('col-lg-4'); // Ensures 3 cards per row
