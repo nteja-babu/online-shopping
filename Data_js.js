@@ -28,7 +28,8 @@ const ele_content = [
 const gad_content = [
     
 {
-        IMG: "https://www.amazon.in/gp/aw/d/B0CYTCD6TH/?_encoding=UTF8&pd_rd_plhdr=t&aaxitk=8a3fd4656871378dad11bf572cc654a5&hsa_cr_id=0&qid=1740897272&sr=1-1-b76ccce4-e4ce-4a30-8e0c-9a83ecdf2cc0&ref_=sbx_be_s_sparkle_lsi2m_asin_0_img&pd_rd_w=mGXh9&content-id=amzn1.sym.1c3f6377-e9e7-4231-b06d-247ff644a657%3Aamzn1.sym.1c3f6377-e9e7-4231-b06d-247ff644a657&pf_rd_p=1c3f6377-e9e7-4231-b06d-247ff644a657&pf_rd_r=N38SV1AB1GYE351ZD22N&pd_rd_wg=bJe50&pd_rd_r=f0993126-912d-4cde-be54-6aa0bb4221d2#",
+        IMG: " https://www.amazon.in/Counzy-Planet-Crystal-Wooden-Decorations/dp/B0DPDT3639/ref=mp_s_a_1_2_sspa?crid=1M8D185C2X27F&dib=eyJ2IjoiMSJ9.7Ik5mx64Xd-G6u4EJyrok7IQkATJZs5HIVV04NWSuVYZITNf4XKKX2tEAzr2uYwa8luEz01wgbfkQtOovX3wZYX1tQHTPc_jkfECzJdijuYiQeR6zEpoo5Q-tfaBBZWS7m9oofzPOQbHYnAhe1gYAi93L1PRsre5BFhbDQqvt7W8U3yrCIx6WNHBleEmjSPr5M-DdtufYc9_M4zDV03evA.SSHS1v3mRnLprVkYgyAJH046hqj_QCduLorOyDbbYOQ&dib_tag=se&keywords=3d+boll&qid=1740897564&sprefix=3d+bol%2Caps%2C478&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9waG9uZV9zZWFyY2hfYXRm&psc=1#"
+,
         HEADING: "Devotional",
         MATTER: ". One94Store 3D Galaxy Crystal Ball Night Lamp - Engraved USB Table LED Wooden Light for Home Office Decoration and Birthday Gift (Galaxy)(Warm White)",
         PATH: 'https://amzn.to/3F2VYnR '
