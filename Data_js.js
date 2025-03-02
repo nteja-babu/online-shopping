@@ -1,3 +1,7 @@
+
+/*-------------------------------------------------------------------------------*/
+/* used for Devotional.HTML page */
+
 const records = [
     {
         IMG: "https://m.media-amazon.com/images/I/71U3iznUAIL._SX425_.jpg",
@@ -6,6 +10,8 @@ const records = [
         PATH: 'https://amzn.to/41p0swm'
     },
 ];
+/*-------------------------------------------------------------------------------*/
+/* used for Electronics.HTML page */
 
 const ele_content = [
     {
@@ -16,6 +22,8 @@ const ele_content = [
     },
 ];
 
+/*-------------------------------------------------------------------------------*/
+/* used for Gadget.HTML page */
 
 const gad_content = [
     {
@@ -26,6 +34,9 @@ const gad_content = [
     },
 ];
 
+/*-------------------------------------------------------------------------------*/
+/* used for Clothing.HTML page */
+
 const clo_content = [
     {
         IMG: "https://m.media-amazon.com/images/I/71U3iznUAIL._SX425_.jpg",
@@ -34,6 +45,9 @@ const clo_content = [
         PATH: 'https://amzn.to/41p0swm'
     },
 ];
+
+/*-------------------------------------------------------------------------------*/
+/* used for index.HTML page */
 
 const card_content = [
     {

@@ -1,8 +1,9 @@
 // Import records and card_content from Data_js.js
 import { records, card_content,ele_content, gad_content, clo_content } from './Data_js.js';
 
-// Function to display the records (blog posts)
-console.log(card_content)
+//console.log(card_content) //#debugging
+
+/* used for Devetional.HTML page */
 function displayRecords() {
     const contentDiv = document.getElementById('content');
     records.forEach(record => {
@@ -19,7 +20,9 @@ function displayRecords() {
        contentDiv.appendChild(postDiv);
     });
 }
+
 /*-----------------------------------------------------------------------------------------*/
+/* used for index.HTML page */
 function Showcards() {
     const contentDiv = document.getElementById('carcontents'); 
     if (!contentDiv) {
@@ -44,7 +47,10 @@ function Showcards() {
         contentDiv.appendChild(postDiv);
     });
 }
+
 /*-----------------------------------------------------------------------*/
+/* used for Electornics.HTML page */
+
 function eleShowcards() {
     const contentDiv = document.getElementById('elecontents'); // Get the content div
 
@@ -67,7 +73,9 @@ function eleShowcards() {
         contentDiv.appendChild(postDiv);
     });
 }
+
 /*--------------------------------------------------------------------------------------------------*/
+/* used for Gadgets.HTML page */
 
 function gadShowcards() {
     const contentDiv = document.getElementById('gadcontents'); // Get the content div
@@ -91,7 +99,9 @@ function gadShowcards() {
         contentDiv.appendChild(postDiv);
     });
 }
+
 /*--------------------------------------------------------------------------------------------------*/
+/* used for Clothing.HTML page */
 
 function cloShowcards() {
     const contentDiv = document.getElementById('clocontents'); // Get the content div
@@ -116,6 +126,9 @@ function cloShowcards() {
     });
 }
 /*--------------------------------------------------------------------------------------------------*/
+/* Dynamic page detuction should not*/
+
+
 document.addEventListener('DOMContentLoaded', () => {
     // Check the page's URL or a specific element to determine which function to run
     if (window.location.pathname === '/online-shopping/Devotional.html') { // Replace '/page1.html' with the correct URL path
