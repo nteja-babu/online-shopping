@@ -40,6 +40,12 @@ const records = [
         MATTER: "Bloomico Putta Mannu for Pooja - 100 gm | Natural Pure Ant Burrow Soil & Snake Burrow Soil for Healing (100 Grams)",
         PATH: 'https://amzn.to/4blK844'
     },
+    {
+        IMG: "https://m.media-amazon.com/images/I/51c5Tlqf8LL._SX569_.jpg",
+        HEADING: "Zed Black Parfum Premium Fragrance",
+        MATTER: "Zed Black Parfum Premium Fragrance Giftbox of Incense Sticks Pack of 2 - Fragrance Incense Sticks for Positivity & Freshness - Luxurious Fragrance of Perfumed Incense Sticks",
+        PATH: 'https://amzn.to/4ipLZYd'
+    },
 ];
 /*-------------------------------------------------------------------------------*/
 /* used for Electronics.HTML page */
