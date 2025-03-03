@@ -125,6 +125,42 @@ const records = [
         MATTER: "Special Bamboo-Less Agarbathi for Meditation, Good Vibes, Gifting",
         PATH: 'https://amzn.to/4bqYdgA'
     },
+    {
+        IMG: "https://m.media-amazon.com/images/I/7111KNufEoL._SX569_.jpg",
+        HEADING: "Simply Vedic Nag Champa Incense Sticks",
+        MATTER: "Premium Handmade Agarbatti for Pooja, Aromatherapy, Meditation, Yoga | Lasts 45 Minutes| Home & House Decor (250 Grams: Approx 135 Sticks + Incense Holder)",
+        PATH: 'https://amzn.to/41fnC8k'
+    },
+{
+        IMG: "https://m.media-amazon.com/images/I/71OFsFyQZZL._SX569_.jpg",
+        HEADING: "Feel365 Multi Flavour Dhoop Sticks",
+        MATTER: "Bambooless Incense Sticks | Dhoop Sticks for Pooja and Havan Long Lasting Fragrance Dhoop Holder Inside | Pack of 100g (1)",
+        PATH: 'https://amzn.to/43laYax'
+    },
+{
+        IMG: "https://m.media-amazon.com/images/I/81DC+tmhUHL._SX569_.jpg",
+        HEADING: "Simply Vedic Premium Handmade Lavender Incense Sticks",
+        MATTER: "Universe Incense Holder Combo Set | Positive Energy Aromatherapy Meditation Yoga Pooja Home (135 Sticks 45 Minutes Each+Ash Catcher Tray)",
+        PATH: 'https://amzn.to/41m1sS6'
+    },
+{
+        IMG: "https://m.media-amazon.com/images/I/81z6U073xNL._SX569_.jpg",
+        HEADING: "Aroma Factory Organic Kasturi Musk Agarbatti for Pooja",
+        MATTER: "No Charcoal Incense Sticks,100% Herbal Fragrance Agarbathi, 0% Surphates, (Bottle Pack of 1x100g))",
+        PATH: 'https://amzn.to/4i15VRl'
+    },
+{
+        IMG: "https://m.media-amazon.com/images/I/81jAQETWpOL._SX679_.jpg",
+        HEADING: "Cycle Pure Four Seasons Premium Bambooless Incense Pack of 4 Fragrance",
+        MATTER: "Special Bamboo-Less Agarbathi for Meditation, Good Vibes, Gifting",
+        PATH: 'https://amzn.to/3XrPjtD'
+    },
+{
+        IMG: "https://m.media-amazon.com/images/I/816jcsRwTrL._SX569_.jpg",
+        HEADING: "AMAYAH Luxury Organic Dhoop Sticks",
+        MATTER: "Tea Tree Fragrance (Bambooless & Charcoal Free) | Natural Dhoop Sticks for Pooja | 30 Dhoop Sticks + Holder (Re_AM-DUP-STK-P)",
+        PATH: 'https://amzn.to/4kfGpcF'
+    },
 ];
 /*-------------------------------------------------------------------------------*/
 /* used for Electronics.HTML page */
