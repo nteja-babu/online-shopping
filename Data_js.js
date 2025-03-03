@@ -161,6 +161,48 @@ const records = [
         MATTER: "Tea Tree Fragrance (Bambooless & Charcoal Free) | Natural Dhoop Sticks for Pooja | 30 Dhoop Sticks + Holder (Re_AM-DUP-STK-P)",
         PATH: 'https://amzn.to/4kfGpcF'
     },
+    {
+        IMG: "https://m.media-amazon.com/images/I/41kT9vgUpYL.jpg",
+        HEADING: "Vishal (Combo Pack of 3)",
+        MATTER: "Machine Crafted Elegant Bamboo-Less Special Agarbatti Incense Sticks for Aroma & Smoke, Extra Freshness, Home Temple Worship, Purification & Positivity",
+        PATH: 'https://amzn.to/4btuS5h'
+    },
+{
+        IMG: "https://m.media-amazon.com/images/I/41Sn1P5YrxL.jpg",
+        HEADING: "Agarbatti Amber Incense Sticks",
+        MATTER: "Pure & Natural Home Fragrance Incense Relaxation, Yoga, Healing Incense Stick Pack of 6(10 Stick Each one Box)",
+        PATH: 'https://amzn.to/41AYPx4'
+    },
+{
+        IMG: "https://m.media-amazon.com/images/I/81tERrOz93L._SX569_.jpg",
+        HEADING: "Amayah Mix Pack Incense Stick Agarbatti",
+        MATTER: "Organic Incense Sticks Agarbatti (Pack of-5) | Charcoal Free & Natural Agarbatti for Pooja | Hand-Rolled 125 Incense Sticks",
+        PATH: 'https://amzn.to/4h4eolu'
+    },
+{
+        IMG: "https://m.media-amazon.com/images/I/7189wm5PiiL._SX569_.jpg",
+        HEADING: "ART OF PUJA",
+        MATTER: "Agarbatti with Natural & Long-Lasting Fragrance | Perfect Air Freshener for Home & Office | Best for Relaxation & Spirituality | Chandra",
+        PATH: 'https://amzn.to/4h7WFcS'
+    },
+{
+        IMG: "https://m.media-amazon.com/images/I/71wPwuIsGJS._SX569_.jpg",
+        HEADING: "Black Stick",
+        MATTER: "Fragrance Aroma Sticks | Low Smoke Incense Sticks | Charcoal Free Agarbathi Eco-pac (2)",
+        PATH: 'https://amzn.to/4h0PQtn'
+    },
+{
+        IMG: "https://m.media-amazon.com/images/I/81HTvIlQCBL._SX569_.jpg",
+        HEADING: " Trio Incense Stick",
+        MATTER: "Long-Lasting Sandalwood, Rose, Jasmine, Bamboo Less Eco Friendly Agarbatti Sticks Ideally Used for Daily Puja ",
+        PATH: 'https://amzn.to/3Di1nH5'
+    },
+{
+        IMG: "https://m.media-amazon.com/images/I/71J+9PjxkRL._SX569_.jpg",
+        HEADING: "Puja Dhoop Sticks",
+        MATTER: "Pushkar Mogra, 9cm Long|Dhoop for Pooja|Natural Ingredients|Dhoop| Long-Lasting Home Fragrance Product| Dhoop Sticks/Dhoop Cone| Made in India",
+        PATH: 'https://amzn.to/4boANZk'
+    },
 ];
 /*-------------------------------------------------------------------------------*/
 /* used for Electronics.HTML page */
