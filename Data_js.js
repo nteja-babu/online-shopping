@@ -88,12 +88,7 @@ const records = [
         MATTER: "Special Bamboo-Less Agarbathi for Meditation, Good Vibes, Gifting",
         PATH: 'https://amzn.to/4bqYdgA'
     },
-    {
-        IMG: "https://m.media-amazon.com/images/I/51c5Tlqf8LL._SX569_.jpg",
-        HEADING: "Dhoop Chaon",
-        MATTER: "Original Comfort Camphor and Lemon Grass Incense Sticks | Pack of 2 | 120 Sticks Each | with Redbull Incense Sticks.",
-        PATH: 'https://amzn.to/3XjPsz5'
-    },
+   
 {
         IMG: "https://m.media-amazon.com/images/I/61ueNvz2HIL._SX679_PIbundle-3,TopRight,0,0_AA679SH20_.jpg",
         HEADING: "Lia Agarbatti Special Combo Pack",
