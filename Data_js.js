@@ -88,17 +88,6 @@ const records = [
         MATTER: "Special Bamboo-Less Agarbathi for Meditation, Good Vibes, Gifting",
         PATH: 'https://amzn.to/4bqYdgA'
     },
-];
-/*-------------------------------------------------------------------------------*/
-/* used for Electronics.HTML page */
-
-const ele_content = [
-    {
-        IMG: "https://m.media-amazon.com/images/I/71U3iznUAIL._SX425_.jpg",
-        HEADING: "Electronics",
-        MATTER: "Some representative placeholder content for the three columns of text below the carousel. This is the first column.",
-        PATH: 'https://amzn.to/41p0swm'
-    },
     {
         IMG: "https://m.media-amazon.com/images/I/51c5Tlqf8LL._SX569_.jpg",
         HEADING: "Dhoop Chaon",
@@ -141,6 +130,18 @@ const ele_content = [
         MATTER: "Special Bamboo-Less Agarbathi for Meditation, Good Vibes, Gifting",
         PATH: 'https://amzn.to/4bqYdgA'
     },
+];
+/*-------------------------------------------------------------------------------*/
+/* used for Electronics.HTML page */
+
+const ele_content = [
+    {
+        IMG: "https://m.media-amazon.com/images/I/71U3iznUAIL._SX425_.jpg",
+        HEADING: "Electronics",
+        MATTER: "Some representative placeholder content for the three columns of text below the carousel. This is the first column.",
+        PATH: 'https://amzn.to/41p0swm'
+    },
+  
 ];
 
 /*-------------------------------------------------------------------------------*/
