@@ -57,6 +57,48 @@ const ele_content = [
         MATTER: "Some representative placeholder content for the three columns of text below the carousel. This is the first column.",
         PATH: 'https://amzn.to/41p0swm'
     },
+    {
+        IMG: "https://m.media-amazon.com/images/I/51c5Tlqf8LL._SX569_.jpg",
+        HEADING: "Dhoop Chaon",
+        MATTER: "Original Comfort Camphor and Lemon Grass Incense Sticks | Pack of 2 | 120 Sticks Each | with Redbull Incense Sticks.",
+        PATH: 'https://amzn.to/3XjPsz5'
+    },
+{
+        IMG: "https://m.media-amazon.com/images/I/61ueNvz2HIL._SX679_PIbundle-3,TopRight,0,0_AA679SH20_.jpg",
+        HEADING: "Lia Agarbatti Special Combo Pack",
+        MATTER: "Pack Of 3 (166 Sticks Per Pack) | Chandanam, Jas, Prime Rose Incense | Woody, Floral Incense For Puja, Relaxation, Freshness, Happy Vibes",
+        PATH: 'https://amzn.to/4kgmDxD'
+    },
+{
+        IMG: "https://m.media-amazon.com/images/I/614bDw6+pxL._SX569_.jpg",
+        HEADING: "Balaji Khus",
+        MATTER: "Luxury Vetiver Incense - 25 Sticks ",
+        PATH: 'https://amzn.to/3F3Jxbq'
+    },
+{
+        IMG: "https://m.media-amazon.com/images/I/711gICAji9L._SX569_.jpg",
+        HEADING: "Aroma Factory Organic Fresh Active Agarbatti for Pooja",
+        MATTER: "No Charcoal Incense Sticks,100% Herbal Fragrance Agarbathi, (Bottle Pack of 1x100g)",
+        PATH: 'https://amzn.to/4bnQlfW'
+    },
+{
+        IMG: "https://m.media-amazon.com/images/I/61psJ+Jx9UL._SX569_.jpg",
+        HEADING: "Zed Black Premium Sandal Incense Sticks",
+        MATTER: "Long Lasting Refreshing Agarbatti Scent Sticks for Everyday Use - Executive Pack (Pack of 12)",
+        PATH: 'https://amzn.to/4inADnu'
+    },
+{
+        IMG: "https://m.media-amazon.com/images/I/51q2L4YupIL._SX569_.jpg",
+        HEADING: "AVL Subanithra Herbal Incense 200 Sticks",
+        MATTER: "The House of Eyetex|100% Herbal|Chemical-Free|Low Smoke Output|Eco-Friendly",
+        PATH: 'https://amzn.to/4h7VCcG'
+    },
+{
+        IMG: "https://m.media-amazon.com/images/I/81jAQETWpOL._SX679_.jpg",
+        HEADING: "Cycle Pure Four Seasons Premium Bambooless Incense Pack of 4 Fragrance",
+        MATTER: "Special Bamboo-Less Agarbathi for Meditation, Good Vibes, Gifting",
+        PATH: 'https://amzn.to/4bqYdgA'
+    },
 ];
 
 /*-------------------------------------------------------------------------------*/
